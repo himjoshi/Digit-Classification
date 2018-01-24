@@ -13,4 +13,4 @@ Convolution Layer: 1
 
 Max Pooling Layer: 1
 
-Accuracy : 98.457%
+Accuracy : 98.457% on test data
